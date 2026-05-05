@@ -13,7 +13,11 @@ return lush(function()
     Special { fg = hsl('#999999'), bg = hsl('#000000') },
     String { fg = hsl('#999999'), bg = hsl('#000000') },
     Comment { fg = hsl('#999999'), bg = hsl('#000000') },
-    Title { fg = hsl(210, 80, 60), gui = "bold" },
-    Delimiter { fg = hsl(210, 80, 60), gui = "bold" },
+    markdownH1 { fg = hsl(210, 80, 60), gui = "bold" },
+    mardownH1Delimiter { fg = hsl(210, 80, 60), gui = "bold" },
+    markdownH2 { fg = hsl(210, 80, 60), gui = "bold" },
+    mardownH2Delimiter { fg = hsl(210, 80, 60), gui = "bold" },
+    markdownH3 { fg = hsl(210, 80, 60), gui = "bold" },
+    mardownH3Delimiter { fg = hsl(210, 80, 60), gui = "bold" },
   }
 end)
