@@ -4,21 +4,6 @@ A dark grayscale colorscheme for Neovim, built with [lush.nvim](https://github.c
 
 ![ckgrayscale.nvim demo](demo.png)
 
-## Palette
-
-| Role | Hex |
-|---|---|
-| Background | `#161616` |
-| Float / Popup | `#1e1e1e` |
-| Visual | `#272727` |
-| Comments | `#505050` |
-| Line numbers | `#686868` |
-| Operators | `#878787` |
-| Normal text | `#aaaaaa` |
-| Keywords / Types | `#c8c8c8` |
-| Strings / Constants | `#e2e2e2` |
-| Titles | `#f2f2f2` |
-
 ## Requirements
 
 - Neovim >= 0.9
