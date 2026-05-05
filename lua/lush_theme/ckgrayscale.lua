@@ -13,5 +13,6 @@ return lush(function()
     Special { fg = hsl('#999999'), bg = hsl('#000000') },
     String { fg = hsl('#999999'), bg = hsl('#000000') },
     Comment { fg = hsl('#999999'), bg = hsl('#000000') },
+    Title { fg = hsl(210, 80, 60), gui = "bold" },
   }
 end)
