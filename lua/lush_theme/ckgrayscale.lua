@@ -4,21 +4,21 @@ local hsl = lush.hsl
 -- Grayscale palette (dark)
 local p = {
   -- Backgrounds
-  bg0   = hsl("#0e0e0e"), -- deepest bg (under floats)
-  bg1   = hsl("#161616"), -- normal bg
-  bg2   = hsl("#1e1e1e"), -- float / popup bg
-  bg3   = hsl("#272727"), -- visual selection
-  bg4   = hsl("#313131"), -- statusline, tabline
-  bg5   = hsl("#3c3c3c"), -- borders, dividers, fold col
+  bg0   = hsl("#080808"), -- deepest bg (under floats)
+  bg1   = hsl("#111111"), -- normal bg
+  bg2   = hsl("#191919"), -- float / popup bg
+  bg3   = hsl("#232323"), -- visual selection
+  bg4   = hsl("#2d2d2d"), -- statusline, tabline
+  bg5   = hsl("#383838"), -- borders, dividers, fold col
 
   -- Foregrounds
-  fg1   = hsl("#505050"), -- comments (very muted)
-  fg2   = hsl("#686868"), -- line numbers, non-text
-  fg3   = hsl("#878787"), -- operators, punctuation
-  fg4   = hsl("#aaaaaa"), -- normal text
-  fg5   = hsl("#c8c8c8"), -- keywords, types (bright)
-  fg6   = hsl("#e2e2e2"), -- strings, constants (brightest)
-  white = hsl("#f2f2f2"), -- titles, headings
+  fg1   = hsl("#424242"), -- comments (very muted)
+  fg2   = hsl("#606060"), -- line numbers, non-text
+  fg3   = hsl("#848484"), -- operators, punctuation
+  fg4   = hsl("#b0b0b0"), -- normal text
+  fg5   = hsl("#d0d0d0"), -- keywords, types (bright)
+  fg6   = hsl("#e8e8e8"), -- strings, constants (brightest)
+  white = hsl("#ffffff"), -- titles, headings
 
   none  = "NONE",
 }
