@@ -12,7 +12,7 @@ local p = {
   bg5   = hsl("#383838"), -- borders, dividers, fold col
 
   -- Foregrounds
-  fg1   = hsl("#424242"), -- comments (very muted)
+  fg1   = hsl("#606060"), -- comments (very muted)
   fg2   = hsl("#606060"), -- line numbers, non-text
   fg3   = hsl("#848484"), -- operators, punctuation
   fg4   = hsl("#b0b0b0"), -- normal text
