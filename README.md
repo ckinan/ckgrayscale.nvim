@@ -2,6 +2,8 @@
 
 A dark grayscale colorscheme for Neovim, built with [lush.nvim](https://github.com/rktjmp/lush.nvim).
 
+![ckgrayscale.nvim demo](demo.png)
+
 ## Palette
 
 | Role | Hex |
