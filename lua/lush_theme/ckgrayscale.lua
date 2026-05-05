@@ -8,6 +8,7 @@ return lush(function()
     Function { fg = hsl('#ffffff'), bg = hsl('#181818') },
     Keyword { fg = hsl('#ffffff'), gui = "bold" },
     Identifier { fg = hsl('#ffffff'), gui = "bold" },
+    StatusLine { fg = hsl('#ffffff'), gui = "bold" },
     Directory { fg = hsl('#ffffff') },
     Special { fg = hsl('#999999'), bg = hsl('#181818') },
     String { fg = hsl('#999999'), bg = hsl('#181818') },
